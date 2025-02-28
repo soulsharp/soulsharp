@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @soulsharp
-- Towards a future full of innovation...
-- Interests - Computer Vision, GPU programming, Inference Optimization 
+- Interests - Machine Learning, Computer Vision, GPU programming, Image Processing
 - 📫 Feel free to contact me at - arpitanandofficial@gmail.com
 <!---
 soulsharp/soulsharp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
